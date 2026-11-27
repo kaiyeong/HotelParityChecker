@@ -1,0 +1,190 @@
+{
+  "FHKL": {
+    "propertyId": "FHKL",
+    "propertyName": "Flora By Crossroads Hotel",
+    "googlePropertyToken": "ChkIve6O-7TC_8pDGg0vZy8xMWM1NGIxeF8zEAE",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g298570-d10934471",
+    "updatedAt": "2026-11-25T09:08:08Z"
+  },
+  "85SH": {
+    "propertyId": "85SH",
+    "propertyName": "85 Soho Hotel & Service Apartment",
+    "googlePropertyToken": "ChoI95fPn5SlqeuqARoNL2cvMTFsa3MzNmpjdxAB",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": null,
+    "updatedAt": "2026-11-25T08:59:00Z"
+  },
+  "STHOT": {
+    "propertyId": "STHOT",
+    "propertyName": "Strand Hotel",
+    "googlePropertyToken": "ChgIhv-Zq8rGjMueARoLL2cvMXRjejV2anMQAQ",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g294265-d338340",
+    "rmEmails": [
+      "kaiyeong@gmail.com,openglory1@gmail.com"
+    ],
+    "updatedAt": "2026-11-25T01:54:53.052Z"
+  },
+  "TBC": {
+    "propertyId": "TBC",
+    "propertyName": "The Bus Collective",
+    "googlePropertyToken": "ChkIluqJ3I6dn-Q0Gg0vZy8xMWtyZmc5MHQ2EAE",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g294265-d26834556",
+    "updatedAt": "2026-11-25T01:55:24.037Z"
+  },
+  "K0673": {
+    "propertyId": "K0673",
+    "propertyName": "King Park Hotel Kota Kinabalu",
+    "googlePropertyToken": "ChgIwqiH7bjA3fmvARoLL2cvMXhwd2c5Y3kQAQ",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g298307-d866473",
+    "updatedAt": "2026-11-25T01:55:29.192Z"
+  },
+  "T0668": {
+    "propertyId": "T0668",
+    "propertyName": "The Skye Phnom Penh Hotel & Apartments",
+    "googlePropertyToken": null,
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g293940-d28755507",
+    "updatedAt": "2026-11-19T11:34:52.134Z"
+  },
+  "BHCM": {
+    "propertyId": "BHCM",
+    "propertyName": "Bay Hotel Ho Chi Minh",
+    "googlePropertyToken": "ChoIvILutri3x6XHARoNL2cvMTFjbjd0ZGZfORAB",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g293925-d10030342",
+    "rmEmails": [
+      "rm@bayhotelhcm.com"
+    ],
+    "updatedAt": "2026-11-25T09:07:26Z"
+  },
+  "CHPP": {
+    "propertyId": "CHPP",
+    "propertyName": "Cambodiana Hotel Phnom Penh",
+    "googlePropertyToken": "ChYI9af506OG14pDGgovbS8wZ2xzN24wEAE",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g293940-d324065",
+    "updatedAt": "2026-11-25T01:55:31.076Z"
+  },
+  "LIKL": {
+    "propertyId": "LIKL",
+    "propertyName": "Lloyd's Inn Kuala Lumpur",
+    "googlePropertyToken": "ChoItdqY2tnd7ai1ARoNL2cvMTFqMmdrOGtqbhAB",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g298570-d26988968",
+    "updatedAt": "2026-11-25T01:55:26.371Z"
+  },
+  "TROVE": {
+    "propertyId": "TROVE",
+    "propertyName": "Trove Johor Bahru",
+    "googlePropertyToken": "ChcI1tfZwfeTi8lDGgsvZy8xdHNjbGo0cBAB",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g298278-d478297",
+    "updatedAt": "2026-11-25T08:50:08.745Z"
+  },
+  "TPH": {
+    "propertyId": "TPH",
+    "propertyName": "The Tropics MacArthur Park",
+    "googlePropertyToken": "ChoIqYuwsIe_rqCCARoNL2cvMTF3bWhmdnNtcxAB",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": null,
+    "updatedAt": "2026-11-25T01:55:33.558Z"
+  },
+  "HGJB": {
+    "propertyId": "HGJB",
+    "propertyName": "Hotel Granada Johor Bahru",
+    "googlePropertyToken": "ChkI97KM65io1feEARoML2cvMTF4ZGw1NnZuEAE",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g298278-d3321065",
+    "updatedAt": "2026-11-25T09:06:45Z"
+  },
+  "J8H": {
+    "propertyId": "J8H",
+    "propertyName": "J8 Hotel",
+    "googlePropertyToken": "ChkIjvvG5M270ZztARoML2cvMXB0eTkzYmJqEAE",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g294265-d5871188",
+    "updatedAt": "2026-11-25T01:54:51.467Z"
+  },
+  "VHP": {
+    "propertyId": "VHP",
+    "propertyName": "Vermillion Hotel",
+    "googlePropertyToken": null,
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g298466-d32968618",
+    "updatedAt": "2026-11-19T11:35:19.428Z"
+  },
+  "GEOR": {
+    "propertyId": "GEOR",
+    "propertyName": "GEO Resort & Hotel",
+    "googlePropertyToken": "ChkI3qbjyru-xNBXGg0vZy8xMWgwejk0N3ZnEAE",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g660784-d19188636",
+    "updatedAt": "2026-11-25T08:50:09.257Z"
+  },
+  "HEC": {
+    "propertyId": "HEC",
+    "propertyName": "Harolds Hotel Cebu",
+    "googlePropertyToken": "ChkItKbAldf20d-9ARoML2cvMWhmMTk3Y2p3EAE",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g298460-d1931590",
+    "updatedAt": "2026-11-25T01:55:17.335Z"
+  },
+  "TBSR": {
+    "propertyId": "TBSR",
+    "propertyName": "Tunamaya Beach & Spa Resort - Tioman Island",
+    "googlePropertyToken": "ChkIlryHrd7W5pLdARoML2cvMXB6czcydGtfEAE",
+    "makcorpsHotelId": "3228787",
+    "xoteloHotelKey": "g303993-d3228787",
+    "rmEmails": [
+      "rm@tunamaya.com"
+    ],
+    "updatedAt": "2026-11-25T09:02:35Z"
+  },
+  "HEQC": {
+    "propertyId": "HEQC",
+    "propertyName": "Harolds Hotel Quezon City",
+    "googlePropertyToken": "ChkInrzr3a_ggNdsGg0vZy8xMWZudl9wMF9wEAE",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g298574-d24127612",
+    "updatedAt": "2026-11-25T09:04:25.347Z"
+  },
+  "DTBSR": {
+    "propertyId": "DTBSR",
+    "propertyName": "Tunamaya Beach & Spa Resort - Desaru",
+    "googlePropertyToken": "ChgIubfYmZ2j2bwYGgwvZy8xMnl5Z2dtajAQAQ",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g4564007-d1944738",
+    "updatedAt": "2026-11-25T09:05:30Z"
+  },
+  "LIS": {
+    "propertyId": "LIS",
+    "propertyName": "Lloyd's Inn",
+    "googlePropertyToken": "ChgIpKCTjLKUosTAARoLL2cvMXRmcHJzc2cQAQ",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g294265-d338321",
+    "updatedAt": "2026-11-25T09:06:03.844Z"
+  },
+  "CLHOT": {
+    "propertyId": "CLHOT",
+    "propertyName": "Classique Hotel",
+    "googlePropertyToken": "ChcIrvjgo4rdrpBgGgsvZy8xdHZ5ajhmNhAB",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g294265-d640516",
+    "rmEmails": [
+      "rm@classiquehotel.com"
+    ],
+    "updatedAt": "2026-11-25T01:54:49.305Z"
+  },
+  "VEH": {
+    "propertyId": "VEH",
+    "propertyName": "Verdant Villas Tagaytay",
+    "googlePropertyToken": "ChkIi-SNtPjg4qtlGg0vZy8xMW4zbV9feHB4EAE",
+    "makcorpsHotelId": null,
+    "xoteloHotelKey": "g317121-d34150239",
+    "updatedAt": "2026-11-25T08:59:00Z"
+  }
+}

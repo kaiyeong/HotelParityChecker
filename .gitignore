@@ -1,0 +1,8 @@
+target/
+logs/
+reports/
+dependency-reduced-pom.xml
+.DS_Store
+*.iml
+.idea/
+*.pid

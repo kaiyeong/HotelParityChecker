@@ -1,0 +1,23 @@
+id,name,addr1,addr2,city,province,postal_code,country,latitude,longitude,category,hotel_brand,phone,star_rating,alternate_hotel_id
+TBSR,Tunamaya Beach & Spa Resort - Tioman Island,"Lot 20 & 21, Sarang Burung, Kg. Mukut",,Pulau Tioman,Pahang,26800,MY,2.721315241,104.1531362,hotel,TBSR,+60 9-419 4988,4,TBSR
+TROVE,Trove Johor Bahru,Jalan Dato Abdullah Tahir,,Johor Bahru,Johor,80300,MY,1.477408526,103.7632392,hotel,TROVE,+607-272 8888,4,TROVE
+HGJB,Hotel Granada Johor Bahru,"No.55, Jalan Indah 15/2, Taman Bukit Indah",,Johor Bahru,Johor,81200,MY,1.4813824,103.6572957,hotel,HGJB,+607-231 8888,4,HGJB
+GEOR,GEO Resort & Hotel,"Jalan Permai 2,Genting Permai Avenue",,Genting Highlands,Pahang,69000,MY,3.3871518,101.7752912,hotel,GEOR,+603-9213 0838,5,GEOR
+FHKL,Flora By Crossroads Hotel,"No. 66, Jalan Ampang",,Kuala Lumpur,Kuala Lumpur,50450,MY,3.1592053,101.7119731,hotel,FHKL,+603 2022 4020 /+603 2022 4010,3,FHKL
+CLHOT,Classique Hotel,240 Jalan Besar,,,,208913,SG,1.3093999,103.857939,hotel,CLHOT,+65 6392 3838,3,CLHOT
+J8H,J8 Hotel,No. 8 Townshend Road #01-01,,,,207606,SG,1.307593,103.858393,hotel,J8H,+(65) 6571 9111,3,J8H
+STHOT,Strand Hotel,25 Bencoolen Street,,,,189619,SG,1.29865,103.849797,hotel,STHOT,+65 6338 1866,3,STHOT
+LIS,Lloyd's Inn,2 LLOYD ROAD,,Singapore,,239091,SG,1.2972058,103.8405474,hotel,LIS,,3,LIS
+BHCM,Bay Hotel Ho Chi Minh,"7 Ngo Van Nam Street, District 1",,Ho Chi Minh City,,-,VN,10.781022,106.706131,hotel,BHCM,+84 28 3829 6666,,BHCM
+DTBSR,Tunamaya Beach & Spa Resort - Desaru,"Desaru Damai Beach Resort Sdn Bhd, Bandar Penawar",,Kota Tinggi,Johor,81930,MY,1.557261858,104.2557052,hotel,DTBSR,+607-833 8888,4,DTBSR
+HEQC,Harolds Hotel Quezon City,16 Timog Avenue Brgy. Laging Handa,,Quezon City,,1103,PH,14.6358503,121.0301286,hotel,HEQC,+63 28 251 8888,4,HEQC
+85SH,85 Soho Hotel & Service Apartment,"No 5932, Street Duong Ngeab 3, Sangkat Choam Chao 1, Khan Por Sen Chey",,Phnom Penh,,120909,KH,11.5333135,104.8246027,hotel,85SH,+855 78 538 585,4,85SH
+HEC,Harolds Hotel Cebu,"146 Gorordo Avenue, corner Rosal Street, Kamputhaw",,Cebu City,,6000,PH,10.3195978,123.899112,hotel,HEC,+63 9177118828,3,HEC
+T0668,The Skye Phnom Penh Hotel & Apartments,"35, Street 1928, Oknha Mong Reththy Blvd",,Phnom Penh,,85523,KH,11.591362999995507, 104.89296720810086,hotel,T0668,+855 12 666 247,4,T0668
+TBC,The Bus Collective,5 Telok Paku Road,,Singapore,,508883,SG,1.3889284,103.989828,hotel,TBC,,,TBC
+LIKL,Lloyd's Inn Kuala Lumpur,"25, Jalan Kamuning, Imbi",,Kuala Lumpur,Kuala Lumpur,55100,MY,3.149556415,101.7188651,hotel,LIKL,+603 2777 8988,3,LIKL
+K0673,"King Park Hotel Kota Kinabalu","Jalan Masjid Lama, Bandaran Berjaya, 88000, Malaysia",,Kota Kinabalu,Sabah,88000,MY,5.97829,116.07620,hotel,K0673,+6088270500,3,K0673
+CHPP,"Cambodiana Hotel Phnom Penh","313 Preah Sisowath Quay Phnom Penh",,Phnom Pen,Cambodia,12206,MY,11.56006,104.93620,hotel,CHPP,+855 76 990 0900,3,CHPP
+VHP,"Vermillion Hotel","101 General Luna St, Iloilo City Proper",,Iloilo,Philippines,5000,PH,10.70004, 122.55705,hotel,VHP,+63 968 727 5977,3,VHP
+TPH,"The Tropics MacArthur Park","MacArthur Park Palo, Leyte",,,Philippines,6501,PH,11.16978, 125.01017,hotel,TPH,+63 954 981 1665,4,TPH
+VEH,"Verdant Villas Tagaytay","West, A. Cruz Herrera Street, Maharlika St",,"Tagaytay","Cavite",4120,PH,14.1053,120.9468,VEH,VEH,+63 961 206 6465,2,VEH

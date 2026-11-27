@@ -1,0 +1,3 @@
+id,name,addr1,addr2,city,province,postal_code,country,latitude,longitude,category,hotel_brand,phone,star_rating,alternate_hotel_id
+GEOR,GEO Resort & Hotel,"Jalan Permai 2,Genting Permai Avenue",,Genting Highlands,Pahang,69000,MY,3.3871518,101.7752912,hotel,GEOR,+603-9213 0838,5,GEOR
+STHOT,Strand Hotel,25 Bencoolen Street,,,,189619,SG,1.29865,103.849797,hotel,STHOT,+65 6338 1866,3,STHOT
