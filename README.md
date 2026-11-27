@@ -172,6 +172,18 @@ ProxyPass /HotelPairityCheckerAdmin http://127.0.0.1:8080/HotelPairityCheckerAdm
 ProxyPassReverse /HotelPairityCheckerAdmin http://127.0.0.1:8080/HotelPairityCheckerAdmin
 ```
 
+### Run via Linux Crontab (Zero-Idle / Low-Memory Option)
+Runs `--run-now` on schedule with a capped 256 MB heap (0 MB used between runs):
+```cron
+# Every Monday at 08:00 AM
+0 8 * * 1 cd /opt/hotel-parity && /usr/bin/java -Xms64m -Xmx256m -Duser.timezone=Asia/Kuala_Lumpur -Dconfig.file=/opt/hotel-parity/config/application.properties -jar /opt/hotel-parity/hotel-parity-checker-1.0.0.jar --run-now >> /opt/hotel-parity/logs/cron.log 2>&1
+```
+Start/stop the Admin Web UI on demand using `run-parity-monitor.sh`:
+```bash
+./run-parity-monitor.sh admin
+./run-parity-monitor.sh stop
+```
+
 ---
 
 ## Outputs
